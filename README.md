@@ -1,6 +1,6 @@
 ### Hi there 🖖🏼
 
-### Olá aqui é o Marcos Vinicius, sou desenvolvedor focado nas aplicações Web.
+### Olá aqui é o Marcos Vinicius, desenvolvedor focado nas aplicações Web.
 ### Acredito que determinação e esforço supera a inteligência.
 Sempre aprendendo.
 
