@@ -1,8 +1,9 @@
-## Faaala aii 🖖🏼
+## Faaala aii 🖖🏼 meus Amigos, um pouco sobre oque faço e manjo.
 
-### Olá aqui é o Marcos Ferole, desenvolvedor em aplicações Web[Javacript: Typescript].
-## Acredito que determinação e esforço supera o gênio.
-## Sempre aprendendo.
+### Olá aqui é o Marcos Ferole, desenvolvedor em aplicações Web [Javacript: Typescript].
+### Acredito que determinação e esforço supera o gênio.
+### Sempre em busca de aprender mais e continuar aprendendo.
+### Assim me definido como <strong>Dev</strong>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4rcaoferole/)
@@ -10,7 +11,7 @@
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rcaoferole&show_icons=true&theme=dracula)
 
-### <strong>Trabalhando hoje com<strong>:
+### <strong>Trabalhando hoje com</strong>:
 
 <div style="display: inline_block"> </br>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
