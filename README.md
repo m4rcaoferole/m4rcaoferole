@@ -1,4 +1,4 @@
-# Faaala aii! 🖖🏼 meus Amigos,</br> aqui está um pouco sobre oque faço e manjo.
+# Faaala aii! 🖖🏼 meus Amigos,</br> aqui está um pouco sobre oque manjo.
 
 ### Olá aqui é o Marcos Vinicius, hoje aplicações Web  [Javacript: Typescript].
 ### Acredito que determinação e esforço supera o gênio.
