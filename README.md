@@ -1,6 +1,6 @@
 # Faaala aii! 🖖🏼 meus Amigos,</br> aqui está um pouco sobre oque manjo.
 
-### Olá aqui é o Marcos Vinicius, hoje aplicações Web  [Javacript: Typescript].
+### Olá aqui é o Marcos Vinicius, de forma mais especialista trabalho/estudo com aplicações Web  [Javacript: Typescript].
 ### Acredito que determinação e esforço supera o gênio.
 ### Sempre em busca de aprender mais e continuar aprendendo.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4rcaoferole/)
