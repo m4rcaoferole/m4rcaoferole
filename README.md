@@ -1,4 +1,4 @@
-# Faaala aii! 🖖🏼 meus Amigos,</br> aqui está um pouco sobre meus trabalhos e estudo, sinta-se à vontade.
+# Faaala meus Amigos e Amigas,</br> aqui está um pouco sobre meus trabalhos e estudo, sinta-se à vontade.
 
 ### Olá! me chamo Marcos Vinicius, atualmente trabalhabando e sempre estudando aplicações Web [ Javacript: Typescript ].
 
