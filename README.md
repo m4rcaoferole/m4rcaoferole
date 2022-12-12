@@ -2,7 +2,7 @@
 
 <p align="center"> Faaala gente! Me chamo Marcos,</br> atualmente focado em aplicações Web. </p>
 
-<h2 align="center"> Javascript como principal "ferramenta" de trabalho, atuando  quase 2 anos com desenvolvimento Front end. Priorizo sempre a qualidade e performace das aplicações.</h2>
+<h2 align="center"> Javascript como principal "ferramenta" de trabalho, atuando  quase 2 anos com desenvolvimento Front end. Priorizando a qualidade e performace das aplicações.</h2>
 
 <h4 align="right"> Acredito que determinação e esforço supera o gênio. Sempre em busca de aprender mais e continuar aprendendo. </h4>
 <h5 align="right"> { React< Typescript >: Javacript }</h5>
