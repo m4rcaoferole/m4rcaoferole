@@ -2,8 +2,6 @@
 
 - Desenvolvedor Front End
 
-- Trabalhando na empresa Evolve Tec
-
 - Principal ferramenta de trabalho é o Javascript, entusiasta em ReactJs
 
 - Moro no Japão, Kuwana
