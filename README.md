@@ -1,10 +1,10 @@
-<h1> Opa! Beleza? Me chamo Marcos </h1>
+<h1> E aaaai! Beleza? Me chamo Marcos Ferole</h1>
 
-- Desenvolvedor Front End
+- Desenvolvedor Web
 
-- Principal ferramenta de trabalho é o Javascript, entusiasta em ReactJs
+- Principal ferramenta de trabalho/Estudo é o Javascript.
 
-- Moro no Japão, Kuwana
+- Morando no Japão, Yokkaichi
 
 - <strong>Socials : <strong> <p align="left"> <a href="https://www.github.com/m4rcaoferole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/m4rcaoferole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/m4rcaoferole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
